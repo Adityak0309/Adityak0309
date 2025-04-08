@@ -1,4 +1,4 @@
-#🚀Welcome to My GitHub Profile!
+# 🚀Welcome to My GitHub Profile!
 
 Hi there! I'm **Aditya Kashid**, a passionate developer, Al enthusiast, and 3D Art practitioner. I love building scalable applications, exploring LLM architectures, and optimizing machine learning models.
 
