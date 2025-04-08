@@ -4,24 +4,20 @@ Hi there! I'm **Aditya Kashid**, a passionate developer, Al enthusiast, and 3D A
 
 ## 🛠️Tech Stack
 
-###🔷Programming & Core Concepts
+### 🔷Programming & Core Concepts
 
 <p align="left">
 
-<img
-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img
-src="(https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)"/>
+<img src="(https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)"/>
 
-<img
-src="(https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)"/>
+<img src="(https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)"/>
 
-<img
-src="(https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)"/>
+<img src="(https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)"/>
 
 
-###🤖Al & Machine Learning
+### 🤖Al & Machine Learning
 
 <p align="left">
 
@@ -36,7 +32,7 @@ src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&log
 <img
 src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></p>
 
-###🏛Large Language Models (LLMs)
+### 🏛Large Language Models (LLMs)
 
 <p align="left">
 
